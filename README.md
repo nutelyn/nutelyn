@@ -4,3 +4,5 @@ hold your grand expectation, thus great things takes time, \
 i'm Nutelyn she who looks and do nothing but locking herself \
 in a small prison called room \
 this is my word of pain, this is me, i'm nutelyn the harbinger of the N.E.E.T
+
+anyway... http://koneko27ec5lct5gpb2iexoke7fk357kzgaqivzrexwtmpewcxaz5cid.onion/
