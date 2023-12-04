@@ -16,7 +16,7 @@ A: "i just want to build a cafe with a hackerspace and makerspace below it, the 
 N: "i believe nutelyn-sama already state clearly about the goals"
 
 Q: "we notice that sometimes you're not doing anything in github ie. looking at the contribution its so little like a single contribution and sometime not a single contribution"\
-A: "yeah i do am a civilian of the internet realm, but i'm still binded with real life body, and need to satisfy the real life needs"
+A: "yeah i do am a civilian of the internet realm, but i'm still binded with real life body, and need to satisfy the real life needs"\
 N: "in short nutelyn-sama said to play games, eat and sometimes go to college and shortly will be working as an intern"
 
 Q: "..."\
