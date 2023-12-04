@@ -26,9 +26,9 @@ N: "no comment"
 ## Contact
 nutelyn: "you want to get in touch with me? well im fine with online chat but not with IRL meetup, here's my contact"\
 *hands out a card\
-+------------------------------------+\
++-----------------------------+\
 |   Contact Card          |\
 |   Name: Nutelyn-Sama   |\
-|   Discord: nutelyn        |\
-+------------------------------------+\
+|   Discord: nutelyn       |\
++-----------------------------+\
 nutelyn: "pls don't spam me"
